@@ -27,6 +27,8 @@
 ### Node相关
 [Koa2+MongoDB+JWT实战--Restful API最佳实践](https://github.com/Jack-cool/blog/issues/9)
 
+[你真的了解mongoose吗？](https://github.com/Jack-cool/blog/issues/10)
+
 ### Hybrid（混合开发）
 [浅谈Hybrid](https://github.com/Jack-cool/blog/issues/7)
 
