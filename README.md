@@ -29,6 +29,8 @@
 
 [你真的了解mongoose吗？](https://github.com/Jack-cool/blog/issues/10)
 
+[关于koa2，你不知道的事](https://github.com/Jack-cool/blog/issues/12)
+
 ### Hybrid（混合开发）
 [浅谈Hybrid](https://github.com/Jack-cool/blog/issues/7)
 
