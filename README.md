@@ -10,6 +10,8 @@
 ### Vue相关
 [优雅的在vue中使用TypeScript](https://github.com/Jack-cool/blog/issues/4)
 
+[Vue源码探秘（一）](https://github.com/Jack-cool/blog/issues/13)
+
 ### React相关
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
