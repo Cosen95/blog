@@ -12,6 +12,8 @@
 
 [Vue源码探秘（一）](https://github.com/Jack-cool/blog/issues/13)
 
+[Vue源码探秘（二）（从入口开始）](https://github.com/Jack-cool/blog/issues/14)
+
 ### React相关
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
