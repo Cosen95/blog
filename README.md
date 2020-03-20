@@ -16,6 +16,8 @@
 
 [Vue源码探秘（三）（new Vue发生了什么？）](https://github.com/Jack-cool/blog/issues/15)
 
+[Vue源码探秘（四）（实例挂载$mount）](https://github.com/Jack-cool/blog/issues/16)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
