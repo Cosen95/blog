@@ -18,6 +18,8 @@
 
 [Vue源码探秘（四）（实例挂载$mount）](https://github.com/Jack-cool/blog/issues/16)
 
+[Vue源码探秘（五）（render函数的实现）](https://github.com/Jack-cool/blog/issues/17)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
