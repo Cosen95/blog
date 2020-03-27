@@ -20,6 +20,8 @@
 
 [Vue源码探秘（五）（render函数的实现）](https://github.com/Jack-cool/blog/issues/17)
 
+[Vue源码探秘（六）（Virtual DOM）](https://github.com/Jack-cool/blog/issues/18)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
