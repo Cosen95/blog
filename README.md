@@ -24,6 +24,8 @@
 
 [Vue源码探秘（七）（createElement）](https://github.com/Jack-cool/blog/issues/19)
 
+[Vue源码探秘（八）（_update）](https://github.com/Jack-cool/blog/issues/20)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
