@@ -22,6 +22,8 @@
 
 [Vue源码探秘（六）（Virtual DOM）](https://github.com/Jack-cool/blog/issues/18)
 
+[Vue源码探秘（七）（createElement）](https://github.com/Jack-cool/blog/issues/19)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
