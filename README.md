@@ -26,6 +26,16 @@
 
 [Vue源码探秘（八）（_update）](https://github.com/Jack-cool/blog/issues/20)
 
+[Vue源码探秘（九）（createComponent）](https://github.com/Jack-cool/blog/issues/21)
+
+[Vue源码探秘（十）（组件的patch过程）](https://github.com/Jack-cool/blog/issues/22)
+
+[Vue源码探秘（十一）（合并options）](https://github.com/Jack-cool/blog/issues/23)
+
+[Vue源码探秘（十二）（生命周期）](https://github.com/Jack-cool/blog/issues/24)
+
+[Vue源码探秘（十三）（组件注册）](https://github.com/Jack-cool/blog/issues/25)
+
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
