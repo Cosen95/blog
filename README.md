@@ -10,32 +10,6 @@
 ### Vue相关 🏈
 [优雅的在vue中使用TypeScript](https://github.com/Jack-cool/blog/issues/4)
 
-[Vue源码探秘（一）](https://github.com/Jack-cool/blog/issues/13)
-
-[Vue源码探秘（二）（从入口开始）](https://github.com/Jack-cool/blog/issues/14)
-
-[Vue源码探秘（三）（new Vue发生了什么？）](https://github.com/Jack-cool/blog/issues/15)
-
-[Vue源码探秘（四）（实例挂载$mount）](https://github.com/Jack-cool/blog/issues/16)
-
-[Vue源码探秘（五）（render函数的实现）](https://github.com/Jack-cool/blog/issues/17)
-
-[Vue源码探秘（六）（Virtual DOM）](https://github.com/Jack-cool/blog/issues/18)
-
-[Vue源码探秘（七）（createElement）](https://github.com/Jack-cool/blog/issues/19)
-
-[Vue源码探秘（八）（_update）](https://github.com/Jack-cool/blog/issues/20)
-
-[Vue源码探秘（九）（createComponent）](https://github.com/Jack-cool/blog/issues/21)
-
-[Vue源码探秘（十）（组件的patch过程）](https://github.com/Jack-cool/blog/issues/22)
-
-[Vue源码探秘（十一）（合并options）](https://github.com/Jack-cool/blog/issues/23)
-
-[Vue源码探秘（十二）（生命周期）](https://github.com/Jack-cool/blog/issues/24)
-
-[Vue源码探秘（十三）（组件注册）](https://github.com/Jack-cool/blog/issues/25)
-
 ### React相关 🏉
 [useTypescript-React Hooks和TypeScript完全指南](https://github.com/Jack-cool/blog/issues/3)
 
