@@ -31,6 +31,9 @@
 
 [关于koa2，你不知道的事](https://github.com/Jack-cool/blog/issues/12)
 
+### Chrome相关🍩
+[Chrome DevTools中的这些骚操作，你都知道吗？](https://github.com/Jack-cool/blog/issues/38)
+
 ### Hybrid（混合开发）🦁
 [浅谈Hybrid](https://github.com/Jack-cool/blog/issues/7)
 
