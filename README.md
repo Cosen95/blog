@@ -37,6 +37,9 @@
 ### Hybrid（混合开发）🦁
 [浅谈Hybrid](https://github.com/Jack-cool/blog/issues/7)
 
+### “高深莫测”的JavaScript 👨‍🚀
+[JavaScript中的这些骚操作，你都知道吗？](https://github.com/Jack-cool/blog/issues/39)
+
 ### 好玩儿的css 🎃
 [滚动视差让你不相信“眼见为实”](https://github.com/Jack-cool/blog/issues/5)
 
