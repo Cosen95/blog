@@ -24,6 +24,12 @@
 ### 规范相关（git规范、编码规范等）🐳
 [你可能已经忽略的git commit规范](https://github.com/Jack-cool/blog/issues/6)
 
+### 面试 ✏
+[「源码级回答」大厂高频Vue面试题（上）](https://github.com/Jack-cool/blog/issues/43)
+
+[「源码级回答」大厂高频Vue面试题（中）](https://github.com/Jack-cool/blog/issues/44)
+
+
 ### Node相关 🙈
 [Koa2+MongoDB+JWT实战--Restful API最佳实践](https://github.com/Jack-cool/blog/issues/9)
 
