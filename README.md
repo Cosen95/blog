@@ -18,6 +18,8 @@
 
 [webpack5快发布了，你还没用过4吗？](https://github.com/Jack-cool/blog/issues/1)
 
+[你可能不知道的9条Webpack优化策略](https://github.com/Jack-cool/blog/issues/46)
+
 ### 浏览器相关（缓存、工作原理等）🦊
 [深入理解浏览器的缓存机制](https://github.com/Jack-cool/blog/issues/2)
 
