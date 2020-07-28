@@ -64,6 +64,8 @@
 ### 骚操作/技巧 🦐
 [你可能不知道的15个有用的Github功能](https://github.com/Jack-cool/blog/issues/41)
 
+[那些前端开发必不可少的生产力工具](https://github.com/Jack-cool/blog/issues/47)
+
 ### 互联网趣事 🌰
 
 [GitHub迎来重大变更：可以直接用vscode编码了！](https://github.com/Jack-cool/blog/issues/26)
