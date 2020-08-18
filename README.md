@@ -27,6 +27,9 @@
 
 [聊一聊前端性能优化 CRP](https://github.com/Jack-cool/blog/issues/45)
 
+### “根深蒂固”的食粮 🏇
+[从图片裁剪来聊聊前端二进制](https://github.com/Jack-cool/blog/issues/49)
+
 ### 规范相关（git规范、编码规范等）🐳
 [你可能已经忽略的git commit规范](https://github.com/Jack-cool/blog/issues/6)
 
